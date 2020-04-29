@@ -5,4 +5,5 @@ WE ARE NOT RESPONSIBLE FOR ABUSE OF THIS BOOKMARK
 ### Developers
 BlocksiBypass was developed by:
 Ying & Derin
-Thanks to @codedlightning, too
+#
+Thanks to @CodedLightning for improving the js!
