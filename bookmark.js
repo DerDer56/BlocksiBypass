@@ -1,5 +1,6 @@
 javascript: (function() {
   alert("Thank you for using the SudoTeam bypass method!");
+alert('unblocksi.netlify.app')
   var choice = prompt(
     "Enter (GO) to go to a blocked site and (R) to un-blocksi all links on this site so you can continue browsing."
   );
